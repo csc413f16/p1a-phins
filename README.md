@@ -1,8 +1,8 @@
-Name:
+Name: Phinehas Sridhar
 
-Compilation and Run Successful:
+Compilation and Run Successful: No, Build kept failing when trying to run the program, on an emulator or my own phone. Screenshot of said error: http://prntscr.com/clbcsk
 
-Unit Test Run Successfully:
+Unit Test Run Successfully: No, tests kept failing as well, same error. Looked up the error, found the problem, not sure how to implement the fix though.
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
